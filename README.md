@@ -1,6 +1,6 @@
 # Soldering Projects
 
-![Eine erwachsene Person übergibt eine leuchtende Oktopus-Platine an ein Kind.](https://www.tjfbg.de/fileadmin/tjfbg/user_upload/aktuelles/2025/bk_/TINCON_News.png)
+![Eine erwachsene Person übergibt eine leuchtende Oktopus-Platine an ein Kind.](https://www.tjfbg.de/fileadmin/tjfbg/user_upload/aktuelles/2025/bk_/TINCON_News.png)\
 Photo: © TINCON
 
 Easy soldering projects for educational purposes and makespaces.
