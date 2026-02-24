@@ -8,7 +8,7 @@ Einfaches PCB-Lötprojekt für den Einsatz in Bildungseinrichtungen und Makespac
 
 | Description                     | Quantity |
 |---------------------------------|----------|
-| RGB LEDs 5mm                    | 4        |
+| RGB LEDs 5mm                    | 1        |
 | Button (SMD)                    | 1        |
 | CR2032 Battery Holder (SMD)     | 1        |
 | CR2032 Battery                  | 1        |
