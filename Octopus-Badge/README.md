@@ -17,6 +17,6 @@ Einfaches PCB-Lötprojekt für den Einsatz in Bildungseinrichtungen und Makespac
 
 ## Copyright and Authorship
 
-Board: CC-BY-SA 4.0 - 
+Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Meko Mitte (tjfbg gGmbH)
 
-Octopus SVG CC-BY-SA - 
+Octopus SVG: CC-BY-SA - 
