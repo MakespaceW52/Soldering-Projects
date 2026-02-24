@@ -1,5 +1,7 @@
 # Octopus Badge
 
+![Foto der Oktopus-Platine von beiden Seiten inklusive der drei benötigten Bauteile](/Octopus-Badge/Octopus-Badge.jpeg)
+
 Easy PCB soldering project for educational purposes and makespaces.
 
 Einfaches PCB-Lötprojekt für den Einsatz in Bildungseinrichtungen und Makespaces.
