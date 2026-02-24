@@ -16,4 +16,5 @@ Einfaches PCB-Lötprojekt für den Einsatz in Bildungseinrichtungen und Makespac
 ## Copyright and Authorship
 
 Board: CC-BY-SA 4.0 - 
+
 Octopus SVG CC-BY-SA - 
