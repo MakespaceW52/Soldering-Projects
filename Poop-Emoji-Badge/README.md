@@ -19,7 +19,7 @@ Einfaches PCB-Lötprojekt für den Einsatz in Bildungseinrichtungen und Makespac
 
 Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Meko Mitte (tjfbg gGmbH)
 
-Poop Emoji SVG: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Codrops](https://tympanus.net/codrops/2019/01/18/freebie-emojious-icons-ai-svg-png/?ref=svgrepo.com)
+Poop Emoji SVG: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) - [Codrops](https://www.svgrepo.com/svg/434338/shit-sunglasses)
 
 
 
