@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "PCB-Oktopus_v4_7x7")(type KiCad)(uri "$(KIPRJMOD)/PCB-Oktopus_v4_7x7.pretty")(options "")(descr ""))
+)
