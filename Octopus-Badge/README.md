@@ -12,3 +12,8 @@ Einfaches PCB-Lötprojekt für den Einsatz in Bildungseinrichtungen und Makespac
 | Button (SMD)                    | 1        |
 | CR2032 Battery Holder (SMD)     | 1        |
 | CR2032 Battery                  | 1        |
+
+## Copyright and Authorship
+
+Board: CC-BY-SA 4.0 - 
+Octopus SVG CC-BY-SA - 
