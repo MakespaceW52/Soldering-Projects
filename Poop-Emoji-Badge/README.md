@@ -1,6 +1,6 @@
 # Poop Emoji Badge
 
-![Foto der Poop-Emoji Platine von beiden Seiten inklusive der drei benötigten Bauteile](/Poop-Emoji-Badge.jpeg)
+![Foto der Poop-Emoji Platine von beiden Seiten inklusive der drei benötigten Bauteile](/Poop-Emoji-Badge/Poop-Emoji-Badge.jpeg)
 
 Easy PCB soldering project for educational purposes and makespaces.
 
