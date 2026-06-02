@@ -15,6 +15,10 @@ Einfaches PCB-Lötprojekt für den Einsatz in Bildungseinrichtungen und Makespac
 | CR2032 Battery Holder (SMD)     | 1        |
 | CR2032 Battery                  | 1        |
 
+You can find matching components on [blinkyparts.com](https://shop.blinkyparts.com/de/Einzelteile/).
+
+Passende Bauteile gibt es bei [blinkyparts.com](https://shop.blinkyparts.com/de/Einzelteile/).
+
 ## Copyright and Authorship
 
 Board: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Meko Mitte (tjfbg gGmbH)
